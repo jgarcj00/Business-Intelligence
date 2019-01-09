@@ -1,0 +1,70 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.1.1
+
+Name: AndroidManifest.xml
+SHA-256-Digest: DLxCSy1YdjCxksRajiSaS00wm7P/4SqlrZmhM/QO/Tk=
+
+Name: assets/graph.pb
+SHA-256-Digest: mgddGNWGVhBH7nOEr5Yr6l0SbEU/k7s0wc2BHBc3Sek=
+
+Name: assets/labels.txt
+SHA-256-Digest: VkC6Ba/FfNdZjOWb6ao8cAUAvR0FEUiaQ+/l/7FkQYI=
+
+Name: classes.dex
+SHA-256-Digest: EdJ1pBS0+UpsnMHYNSfB111UqFbyl3Cozm6M3M2A9Ks=
+
+Name: lib/arm64-v8a/libtensorflow_inference.so
+SHA-256-Digest: q+fsHEkG6hcgGwNf/MiCSgDYiNzcQIdGFxZ6ydBMLoY=
+
+Name: lib/armeabi-v7a/libtensorflow_inference.so
+SHA-256-Digest: 5rmXOCRstEoaBovCRb/Owm35BaCRzwQs8UOVLLzHwLU=
+
+Name: lib/x86/libtensorflow_inference.so
+SHA-256-Digest: b52GjuZ8HM4mai+JxgRAPeDQ3aLcyPWkR5/sFL0g9bI=
+
+Name: lib/x86_64/libtensorflow_inference.so
+SHA-256-Digest: 8oVCyGOqC7ynZFLlE8vmeUC7tX3kCHYc80H7kdkxRis=
+
+Name: res/drawable-hdpi-v4/ic_action_info.png
+SHA-256-Digest: FTUvgLxIcMCpUcJLbs/TV8XtmgzkjrHro2X1lcvETCA=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA-256-Digest: qiGmY/IfX0KjsL/r9lV5flsV7H6M7TuSlrgt52lNu7E=
+
+Name: res/drawable-hdpi-v4/tile.9.png
+SHA-256-Digest: t/eEjvt31rvRLZ2oQoMm1awRxRuDV6OJ0cQsd+gq9KM=
+
+Name: res/drawable-mdpi-v4/ic_action_info.png
+SHA-256-Digest: AaTo+XHtiC2EAIptPO5S81XV2GmQ2gDahpQXlaiQcYc=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA-256-Digest: qiGmY/IfX0KjsL/r9lV5flsV7H6M7TuSlrgt52lNu7E=
+
+Name: res/drawable-xhdpi-v4/ic_action_info.png
+SHA-256-Digest: xvXhP+vQYhvODpyyCUmaRcJ4wfv0heZmMqEnTKd0AiU=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: qiGmY/IfX0KjsL/r9lV5flsV7H6M7TuSlrgt52lNu7E=
+
+Name: res/drawable-xxhdpi-v4/ic_action_info.png
+SHA-256-Digest: OGoC4qqWMnqIp4xPu6QgdSrsF9emIILhju3dEjyX/98=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: qiGmY/IfX0KjsL/r9lV5flsV7H6M7TuSlrgt52lNu7E=
+
+Name: res/layout/activity_camera.xml
+SHA-256-Digest: PYHgJGTOk77AAgyQHWQT4VIvf/b1s7yG316XprlH8Xo=
+
+Name: res/layout/camera_connection_fragment.xml
+SHA-256-Digest: unfmtP5Lg7ikPYhfnapmKogiMcA/mfIXgqVikpnWaGA=
+
+Name: res/layout/camera_connection_fragment_stylize.xml
+SHA-256-Digest: HgYafIIcEMZFSWGOOS5Yton048kiXV0qYz2p4nltmN4=
+
+Name: res/layout/camera_connection_fragment_tracking.xml
+SHA-256-Digest: 9qfOvdO6e2QvGWAm2bIANBFVe+VlAEUDyyj2hZWCFZ4=
+
+Name: resources.arsc
+SHA-256-Digest: 6uB9FTLkiFl82OgmoGycpAuDO3G1iWWVIVR3vynoFFc=
+

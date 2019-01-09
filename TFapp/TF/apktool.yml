@@ -1,0 +1,25 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: com.homesecurity.firstone_2018-06-15.apk
+compressionType: false
+doNotCompress:
+- arsc
+- png
+- res/drawable-hdpi-v4/tile.9.png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '25'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.3
+versionInfo:
+  versionCode: '25'
+  versionName: 25.0.25

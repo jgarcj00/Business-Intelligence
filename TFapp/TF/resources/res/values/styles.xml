@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme">
+    </style>
+    <style name="AppTheme">
+    </style>
+    <style name="FullscreenActionBarStyle">
+    </style>
+    <style name="FullscreenTheme">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:actionBarStyle">@style/FullscreenActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="metaButtonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+        <item name="metaButtonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+    <style name="MaterialTheme">
+    </style>
+    <style name="Theme.Base">
+    </style>
+    <style name="Theme.Sample">
+    </style>
+    <style name="Widget">
+    </style>
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7f000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>

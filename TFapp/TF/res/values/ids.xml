@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="black">false</item>
+    <item type="id" name="container">false</item>
+    <item type="id" name="debug_overlay">false</item>
+    <item type="id" name="grid_layout">false</item>
+    <item type="id" name="overlay">false</item>
+    <item type="id" name="results">false</item>
+    <item type="id" name="texture">false</item>
+    <item type="id" name="tracking_overlay">false</item>
+</resources>

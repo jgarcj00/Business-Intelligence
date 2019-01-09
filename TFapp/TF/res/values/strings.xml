@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_name_classification">AI-HomeSecurity</string>
+    <string name="activity_name_detection">AI-HomeSecurity</string>
+    <string name="activity_name_stylize">AI-HomeSecurity</string>
+    <string name="app_name">Home Security</string>
+    <string name="camera_error">"This device doesn't support Camera2 API."</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+</resources>

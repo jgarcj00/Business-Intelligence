@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="metaButtonBarButtonStyle" format="reference">
+    </attr>
+    <attr name="metaButtonBarStyle" format="reference">
+    </attr>
+</resources>
